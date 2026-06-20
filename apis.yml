@@ -9,7 +9,7 @@ description: >-
   Arts and Cultural Production Satellite Account (with BEA) and the Survey
   of Public Participation in the Arts (with the U.S. Census Bureau).
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/national-endowment-for-the-arts/refs/heads/main/apis.yml
 created: '2024-12-03'
 modified: '2026-04-28'
