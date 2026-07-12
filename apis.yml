@@ -21,6 +21,8 @@ tags:
   - Grants
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-endowment-for-the-arts-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/national-endowment-for-the-arts
   - type: Website
@@ -33,6 +35,8 @@ common:
     url: https://www.bea.gov/data/special-topics/arts-and-cultural
   - type: Contact
     url: https://www.arts.gov/about/contact-us
+  - url: https://www.arts.gov/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
