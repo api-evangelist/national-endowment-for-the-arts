@@ -9,6 +9,17 @@ description: >-
   Arts and Cultural Production Satellite Account (with BEA) and the Survey
   of Public Participation in the Arts (with the U.S. Census Bureau).
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: approval
