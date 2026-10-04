@@ -38,7 +38,7 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 tags:
   - Arts
-  - Federal-Government
+  - Federal Government
   - Culture
   - Grants
 tags_raw:
@@ -46,6 +46,7 @@ tags_raw:
   - Federal Government
   - Culture
   - Grants
+  - Federal-Government
 apis: []
 common:
   - type: DomainSecurity
